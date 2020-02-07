@@ -1,0 +1,8 @@
+﻿  Project.cpp
+C:\Users\Steve Liang\source\repos\Project\Project\Project.cpp(27,36): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Steve Liang\source\repos\Project\Project\Project.cpp(30,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Steve Liang\source\repos\Project\Project\Project.cpp(31,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Steve Liang\source\repos\Project\Project\Project.cpp(43,64): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+C:\Users\Steve Liang\source\repos\Project\Project\Project.cpp(43,45): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+C:\Users\Steve Liang\source\repos\Project\Project\Project.cpp(43,26): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+  Project.vcxproj -> C:\Users\Steve Liang\source\repos\Project\x64\Debug\Project.exe
